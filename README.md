@@ -1,2 +1,2 @@
 # jquery-validate
-jquery make things awesome...
+My jquery page validation codes which were used.
